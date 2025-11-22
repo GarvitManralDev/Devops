@@ -1,6 +1,6 @@
 // localStorage key for storing orders
 const STORAGE_KEY = 'orders_data';
-const ROWS_PER_PAGE = 25;
+const ROWS_PER_PAGE = 10;
 let currentPage = 1;
 
 // Initialize the application
